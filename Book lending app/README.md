@@ -1,4 +1,3 @@
-# MyReads Project
     This project allows the user to track status of books , add new books, search for them from Udacity API.
 
 
